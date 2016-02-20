@@ -1,4 +1,8 @@
 lesson2_reflection
 
 Q1.What happens when you initialize a repository? Why do you need to do it?
-After I did "git init", I got a .git file in my current working directory. 
+After I did "git init", I got a .git file in my current working directory.
+
+Q2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's more like an imtermdiate, it offers a cache stage to bridge the working directory and repository, and could make the commit a good size.
+
