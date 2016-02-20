@@ -6,3 +6,16 @@ After I did "git init", I got a .git file in my current working directory.
 Q2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 It's more like an imtermdiate, it offers a cache stage to bridge the working directory and repository, and could make the commit a good size.
 
+Q3.How can you use the staging area to make sure you have one commit per logical changes?
+You can always check the changes using 'git diff --staged'.
+
+Q4.What are some situations when branches would be helpful in keeping your history origanized? How would branches help?
+When you want to make a different version of your master branch, like in an experimental mode or different language mode. You just create a new branch to do this. without changing the main verion of your project.
+
+Q5.How do the diagrams help you visualize the branch structure?
+It clearly shows when branches are apart from master branch, and shows which commits are belonging to specific branch.
+
+
+
+
+
