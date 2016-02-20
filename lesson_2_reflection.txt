@@ -16,6 +16,7 @@ Q5.How do the diagrams help you visualize the branch structure?
 It clearly shows when branches are apart from master branch, and shows which commits are belonging to specific branch.
 
 
-
+Q6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It will have all the changes in the new branch and the master branch.
 
 
