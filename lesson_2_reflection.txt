@@ -1,0 +1,4 @@
+lesson2_reflection
+
+Q1.What happens when you initialize a repository? Why do you need to do it?
+After I did "git init", I got a .git file in my current working directory. 
