@@ -11,3 +11,9 @@ on github use fork. from github to local or local to local is clone. and in one 
 
 Q3.What is the benefit of having a copy of the last known state of the remote stored locally?
 It will tolerate the two different commit version, and to deal with the conflict better.
+
+Q4.How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+I can't image this, probably the only way is to save every changes for the collaboration file. and of couse the git stuff makes things much easier.
+
+
+
