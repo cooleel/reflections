@@ -19,4 +19,8 @@ It clearly shows when branches are apart from master branch, and shows which com
 Q6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It will have all the changes in the new branch and the master branch.
 
+Q7. What sare the pros and cons if Git's automatic merging vs.always doing merges manually?
+With more flexibility you can make commits in a more logical way and reasonable size.
+
+
 
