@@ -7,4 +7,7 @@ Github will save your commit all the time, in this case you can manually keep th
 Q2. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork is the online version of clone, in my opinion.
 and branches can have a copy from your master at this point. 
-on github use fork. from github to local or local to local is clone. and in one project, create different branches if you wanna try difference versions or work on difference small part of your work. 
+on github use fork. from github to local or local to local is clone. and in one project, create different branches if you wanna try difference versions or work on difference small part of your work.
+
+Q3.What is the benefit of having a copy of the last known state of the remote stored locally?
+It will tolerate the two different commit version, and to deal with the conflict better.
