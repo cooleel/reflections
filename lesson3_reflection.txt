@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Q1. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Github will save your commit all the time, in this case you can manually keep the size of the commit without a lot of useless commit.
+
+Q2. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is the online version of clone, in my opinion.
+and branches can have a copy from your master at this point. 
+on github use fork. from github to local or local to local is clone. and in one project, create different branches if you wanna try difference versions or work on difference small part of your work. 
