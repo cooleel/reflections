@@ -15,5 +15,5 @@ It will tolerate the two different commit version, and to deal with the conflict
 Q4.How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 I can't image this, probably the only way is to save every changes for the collaboration file. and of couse the git stuff makes things much easier.
 
-
-
+Q5. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you want to make a change totally not related to the main part of your project or want to try some new features or different design style, you might want to make these stuff on a separate branch. in this way, you won't mess up with your master brancn and if the changes work, you can merge the separate branch back to master anytime. 
